@@ -1,0 +1,17 @@
+
+@import "compass/reset";
+@import "bootstrap";
+@import "_util";
+
+main {
+  max-width: 680px;
+  margin: auto;
+}
+
+.base-view {
+  border: solid 1px #f0f0f0;
+}
+
+.quiz-question-container-view {
+  text-align: center;
+}
